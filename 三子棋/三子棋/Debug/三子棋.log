@@ -1,0 +1,12 @@
+﻿  game.c
+C:\Users\12254\Desktop\三子棋\三子棋\game.c(74,24): warning C4028: 形参 1 与声明不同
+C:\Users\12254\Desktop\三子棋\三子棋\game.c(92,17): warning C4028: 形参 1 与声明不同
+  test.c
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(15,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(15,15): warning C4024: “IsWin”: 形参和实参 1 的类型不同
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(19,21): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(19,16): warning C4024: “ComputerMove”: 形参和实参 1 的类型不同
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(21,20): warning C4047: “函数”:“char”与“char [3][3]”的间接级别不同
+C:\Users\12254\Desktop\三子棋\三子棋\test.c(21,15): warning C4024: “IsWin”: 形参和实参 1 的类型不同
+  正在生成代码...
+  三子棋.vcxproj -> C:\Users\12254\Desktop\三子棋\Debug\三子棋.exe
